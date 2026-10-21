@@ -9,8 +9,9 @@
 
 ![Overwatch crosshair settings](screenshots/crosshair-settings.png)
 
+**Center-cropped previews (512×512) / 準心中心方形預覽**
+
 | Before / 調整前 (19:21:01) | After / 調整後 (19:21:15) |
-| **Center-cropped preview (512×512) / 準心中心方形預覽** | **Center-cropped preview (512×512) / 準心中心方形預覽** |
 |:--:|:--:|
 | ![Before center-crop preview](screenshots/previews/before-center.png) | ![After center-crop preview](screenshots/previews/after-center.png) |
 
