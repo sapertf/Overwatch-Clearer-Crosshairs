@@ -10,8 +10,9 @@
 ![Overwatch crosshair settings](screenshots/crosshair-settings.png)
 
 | Before / 調整前 (19:21:01) | After / 調整後 (19:21:15) |
+| **Center-cropped preview (512×512) / 準心中心方形預覽** | **Center-cropped preview (512×512) / 準心中心方形預覽** |
 |:--:|:--:|
-| ![Before adjustment](screenshots/before.png) | ![After adjustment](screenshots/after.png) |
+| ![Before center-crop preview](screenshots/previews/before-center.png) | ![After center-crop preview](screenshots/previews/after-center.png) |
 
 [View full showcase / 查看完整展示頁](SHOWCASE.md)
 
