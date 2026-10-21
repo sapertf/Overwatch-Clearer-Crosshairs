@@ -2,6 +2,19 @@
 
 [English](#english) | [繁體中文](#繁體中文)
 
+
+## Crosshair Showcase / 準心展示
+
+**Settings / 準心設定**
+
+![Overwatch crosshair settings](screenshots/crosshair-settings.png)
+
+| Before / 調整前 (19:21:01) | After / 調整後 (19:21:15) |
+|:--:|:--:|
+| ![Before adjustment](screenshots/before.png) | ![After adjustment](screenshots/after.png) |
+
+[View full showcase / 查看完整展示頁](SHOWCASE.md)
+
 ## English
 
 A lightweight Windows utility that changes crosshair pixel alignment in **Overwatch 2** on 4K displays.
